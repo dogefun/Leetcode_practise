@@ -2,14 +2,13 @@
 //
 
 #include "stdafx.h"
-#include "Q4.h"
+#include "Q5.h"
 
 int main()
 {
-	vector<int> v1{1};
-	vector<int> v2{};
+	string t = "babad";
 	auto s = Solution();
-	auto x = s.findMedianSortedArrays(v1,v2);
+	auto x = s.longestPalindrome(t);
     return 0;
 }
 
