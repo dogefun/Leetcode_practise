@@ -2,14 +2,14 @@
 //
 
 #include "stdafx.h"
-#include "Q1.h"
+#include "Q4.h"
 
 int main()
 {
-	int tar = 6;
-	vector<int> l{3,3};
+	vector<int> v1{1};
+	vector<int> v2{};
 	auto s = Solution();
-	auto x = s.twoSum(l, tar);
+	auto x = s.findMedianSortedArrays(v1,v2);
     return 0;
 }
 

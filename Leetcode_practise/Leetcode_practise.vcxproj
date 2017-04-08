@@ -139,6 +139,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Q1.h" />
+    <ClInclude Include="Q2.h" />
+    <ClInclude Include="Q3.h" />
+    <ClInclude Include="Q4.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="stl.h" />
     <ClInclude Include="targetver.h" />
