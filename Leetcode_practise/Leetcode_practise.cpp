@@ -2,14 +2,17 @@
 //
 
 #include "stdafx.h"
-#include "Q6.h"
+#include "Q10.h"
 
 int main()
 {
-	string t = "PAYPALISHIRING";
-	int size = 3;
+	string t = "";
+	string p = "a*";
+	//string p = "c*a*b";
+	//int size = 1410110141;
 	auto s = Solution();
-	auto x = s.convert(t,3);
+	auto x = s.isMatch(t,p);
     return 0;
 }
 
+string t = "PAYPALISHIRING";
