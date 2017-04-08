@@ -2,13 +2,14 @@
 //
 
 #include "stdafx.h"
-#include "Q5.h"
+#include "Q6.h"
 
 int main()
 {
-	string t = "babad";
+	string t = "PAYPALISHIRING";
+	int size = 3;
 	auto s = Solution();
-	auto x = s.longestPalindrome(t);
+	auto x = s.convert(t,3);
     return 0;
 }
 
