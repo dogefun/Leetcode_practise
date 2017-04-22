@@ -90,6 +90,21 @@
     <ClInclude Include="Q23.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Q24.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Q25.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Q26.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Q27.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Q28.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

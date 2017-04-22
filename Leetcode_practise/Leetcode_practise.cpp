@@ -2,17 +2,17 @@
 //
 
 #include "stdafx.h"
-#include "Q17.h"
+#include "Q28.h"
 
 int main()
 {
-	string t = "23";
-	string p = "a*";
-	vector<int> g{ -1, 2, 1, 4,};
-	//string p = "c*a*b";
-	//int size = 1410110141;
+	//ListNode go(1);
+	//go.next = &ListNode(2);
+	//go.next->next = &ListNode(3);
+	//go.next->next->next = &ListNode(4);
+	//go.next->next->next->next = &ListNode(5);
 	auto s = Solution();
-	auto x = s.letterCombinations(t);
+	auto x = s.strStr("mississippi","issip");
     return 0;
 }
 
