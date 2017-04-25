@@ -1,6 +1,5 @@
 #include "stl.h"
 class Solution {
-	
 public:
 	int lengthOfLongestSubstring(string s) {
 		vector<int> mark(257, 0);

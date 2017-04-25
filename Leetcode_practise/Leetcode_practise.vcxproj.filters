@@ -105,6 +105,12 @@
     <ClInclude Include="Q28.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Q29.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Q30.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

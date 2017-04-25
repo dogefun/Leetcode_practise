@@ -2,17 +2,14 @@
 //
 
 #include "stdafx.h"
-#include "Q28.h"
+#include "Q30.h"
 
 int main()
 {
-	//ListNode go(1);
-	//go.next = &ListNode(2);
-	//go.next->next = &ListNode(3);
-	//go.next->next->next = &ListNode(4);
-	//go.next->next->next->next = &ListNode(5);
+	vector<vector<int>> l;
+	vector<string> ss{ "bar","foo","the" };
 	auto s = Solution();
-	auto x = s.strStr("mississippi","issip");
+	auto x = s.findSubstring("barfoofoobarthefoobarman",ss);
     return 0;
 }
 
